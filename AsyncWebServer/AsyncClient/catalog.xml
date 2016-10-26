@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://toufiq-pc:8080/AsyncServer/TestwsService?wsdl" uri="src/conf/xml-resources/web-service-references/TestwsService/wsdl/toufiq-pc_8080/AsyncServer/TestwsService.wsdl"/>
+    <system systemId="http://toufiq-pc:8080/AsyncServer/TestwsService?xsd=1" uri="src/conf/xml-resources/web-service-references/TestwsService/wsdl/toufiq-pc_8080/AsyncServer/TestwsService.xsd_1.xsd"/>
+    <system systemId="http://toufiq-pc:8080/AsyncServer/AsyncwsService?wsdl" uri="src/conf/xml-resources/web-service-references/AsyncwsService/wsdl/toufiq-pc_8080/AsyncServer/AsyncwsService.wsdl"/>
+    <system systemId="http://toufiq-pc:8080/AsyncServer/AsyncwsService?xsd=1" uri="src/conf/xml-resources/web-service-references/AsyncwsService/wsdl/toufiq-pc_8080/AsyncServer/AsyncwsService.xsd_1.xsd"/>
+</catalog>
